@@ -1,4 +1,4 @@
-#Socket Chat Room
+# **Socket Chat Room**
 
 1. Run the NodeServer created.
 2. Open the index.html file.
